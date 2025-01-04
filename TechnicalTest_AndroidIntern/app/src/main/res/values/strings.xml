@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MatthewChang_TechnicalTest_Android Intern</string>
+    <string name="email_anda">Email Anda</string>
+    <string name="password_anda">Password Anda</string>
+    <string name="login">Login</string>
+    <string name="todo">TODO</string>
+    <string name="lupa_password">Lupa password?</string>
+    <string name="masuk">MASUK</string>
+    <string name="contact_list">Contact List</string>
+    <string name="profil">Profil</string>
+    <string name="cs_telkomsel">CS Telkomsel</string>
+    <string name="_081293551227">081293551227</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+</resources>
