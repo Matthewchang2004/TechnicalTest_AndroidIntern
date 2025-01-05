@@ -22,10 +22,15 @@ class MainActivity : AppCompatActivity() {
 
         val students = listOf(
             Student("CS Telkomsel", "081293551227", R.drawable.ic_person),
-            Student("CS XL", "08178889999", R.drawable.ic_person),
-            Student("CS Indosat", "085512345678", R.drawable.ic_person),
-            Student("CS Smartfren", "088812345678", R.drawable.ic_person),
-            Student("CS Three", "089912345678", R.drawable.ic_person)
+        Student("CS XL", "08178889999", R.drawable.ic_person),
+        Student("CS Indosat", "085512345678", R.drawable.ic_person),
+        Student("CS Smartfren", "088812345678", R.drawable.ic_person),
+        Student("CS Three", "089912345678", R.drawable.ic_person),
+        Student("CS Axis", "083812345678", R.drawable.ic_person),
+        Student("CS Bolt", "089612345678", R.drawable.ic_person),
+        Student("CS Telkom", "02112345678", R.drawable.ic_person),
+        Student("CS Indihome", "02112345678", R.drawable.ic_person),
+        Student("CS First Media", "02112345678", R.drawable.ic_person),
         )
 
         recyclerView.adapter = StudentAdapter(students)
